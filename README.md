@@ -3,7 +3,9 @@
 # Myntra Apparel Dataset Analysis
 
 ## Project Overview
-This project focuses on analyzing Myntra's apparel dataset to extract valuable insights into pricing, discounts, ratings, and available sizes. The dataset was cleaned, prepared, and analyzed using various Excel features and formulas to answer key business questions.
+This project focuses on analyzing Myntra's apparel dataset to extract valuable insights into pricing, discounts, ratings, and available sizes. 
+The dataset was cleaned, prepared, and analyzed using various Excel features and formulas to answer key business questions.
+
 **Dataset Link** : https://drive.google.com/file/d/1CDaWFvkccjdUw1E_gipTKOfMqiHNhNQL/view
 
 ## Data Cleaning and Preparation
